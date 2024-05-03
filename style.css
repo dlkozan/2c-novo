@@ -4,7 +4,7 @@
 }
 
 .cabecalho {
-    background-color: #424E61;
+    background-color: #e2fa0e;
     color: white;
     display: flex;
     justify-content: space-around;
@@ -20,4 +20,7 @@
     display: inline-block;
     margin: 0 16px;
     font-size: 24px;
+}
+src="logocemag.jpg.PNG" "{
+    width: 25%;
 }
